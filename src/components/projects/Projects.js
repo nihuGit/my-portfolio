@@ -27,8 +27,8 @@ const Projects = () => {
           title="Portfolio Website"
           des="Dynamic portfolio built with Next.js, Firebase, and Node.js. Responsive design, secure contact system, and real-time content control."
           src={projectTwo}
-          gitLink={"https://github.com/nihuGit/my-portfolio"}
-          webLink={"https://buzzer-app-seven.vercel.app"}
+          gitLink={"https://github.com/nihuGit/my-portfolio/tree/main"}
+          webLink={"https://my-portfolio-git-main-nihal-das-projects.vercel.app/"}
         />
         <ProjectsCard
           title="NEWS Blog Site"
